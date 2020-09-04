@@ -6,4 +6,5 @@ mv
 ls
 ls -ltr
 ls -a
+clear
 
