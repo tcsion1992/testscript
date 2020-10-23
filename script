@@ -8,4 +8,4 @@ ls -ltr
 ls -a
 cd
 clear
-
+-xvfz
